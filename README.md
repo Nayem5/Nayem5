@@ -1,44 +1,41 @@
 # 👋 Hi, I'm Naim!
 
-### 🚀 Software Engineering Student |🌱 Always Learning
+### 🚀 Software Engineering Student | 🌱 Always Learning
 
-Welcome to my GitHub profile! I love building clean, functional systems. I'm constantly exploring new technologies and improving my craft.
+Welcome to my GitHub profile! I enjoy building clean, functional systems and exploring new technologies to sharpen my skills.
 
 ---
 
-🔧 Tech Stack & Tools
+## 🔧 Tech Stack & Tools
 
-I’ve worked with a variety of tools and technologies throughout my studies, freelance projects, and personal learning. Here are the main ones I use:
+I’ve worked with various tools and technologies through my studies, freelance work, and personal projects:
 
-Flutter, Firebase, Microsoft Power Apps
-
-HTML/CSS, React, Node.js, Laravel, Django, Supabase
-
-Python, Dart, JavaScript, Java, C#, PHP
-
-MS Word, MS Excel, MS PowerPoint
+**Mobile & App Development:** Flutter, Firebase, Microsoft Power Apps
+**Web Development:** HTML/CSS, React, Node.js, Laravel, Django, Supabase
+**Programming:** Python, Dart, JavaScript, Java, C#, PHP
+**Productivity:** MS Word, MS Excel, MS PowerPoint
 
 ---
 
 ## 🌟 What I'm Working On
 
-* 🛍️ FYP 2
-* 🍔 POS SYSTEM
-* 🌳 Event Management System
+* 🛍️ Final Year Project 2 (FYP 2)
+* 🍔 Point of Sale (POS) System
+* 🌳 Event Management System (All in one platform)
 
 ---
 
 ## 🎯 Goals for 2026
 
 * Master full-stack development
-* Build 1 polished portfolio projects
+* Build at least one polished portfolio project
 * Contribute to open-source
 
 ---
 
 ## 📫 Connect With Me
 
-* Email: **naimashree5@gmail.com**
-* LinkedIn: *www.linkedin.com/in/naimashree*
+* Email: **[naimashree5@gmail.com](mailto:naimashree5@gmail.com)**
+* LinkedIn: **[www.linkedin.com/in/naimashree](http://www.linkedin.com/in/naimashree)**
 
 Thanks for stopping by! 😊
