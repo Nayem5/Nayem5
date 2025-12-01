@@ -28,23 +28,17 @@ MS Word, MS Excel, MS PowerPoint
 
 ---
 
-## 📈 GitHub Stats
-
-![Naim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=radical)
-
----
-
 ## 🎯 Goals for 2026
 
 * Master full-stack development
-* Build 3+ polished portfolio projects
+* Build 1 polished portfolio projects
 * Contribute to open-source
 
 ---
 
 ## 📫 Connect With Me
 
-* Email: **[your.email@example.com](mailto:your.email@example.com)**
-* LinkedIn: *your link here*
+* Email: **naimashree5@gmail.com**
+* LinkedIn: *www.linkedin.com/in/naimashree*
 
 Thanks for stopping by! 😊
