@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Naim!
 
-### 🚀 Software Engineering Student | 🌱 Always Learning
+### 🚀 Software Engineering Student 🌱
 
 Welcome to my GitHub profile! I enjoy building clean, functional systems and exploring new technologies to sharpen my skills.
 
