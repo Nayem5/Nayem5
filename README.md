@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I enjoy building clean, functional systems and exp
 
 I’ve worked with various tools and technologies through my studies, freelance work, and personal projects:
 
-**Mobile & App Development:** Flutter, Firebase, Microsoft Power Apps
-**Web Development:** HTML/CSS, React, Node.js, Laravel, Django, Supabase
-**Programming:** Python, Dart, JavaScript, Java, C#, PHP
+**Mobile & App Development:** Flutter, Firebase, Microsoft Power Apps <br>
+**Web Development:** HTML/CSS, React, Node.js, Laravel, Django, Supabase<br>
+**Programming:** Python, Dart, JavaScript, Java, C#, PHP<br>
 **Productivity:** MS Word, MS Excel, MS PowerPoint
 
 ---
