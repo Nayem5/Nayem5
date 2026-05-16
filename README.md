@@ -98,7 +98,7 @@
 
 <div align="center">
 
-[![Naim's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayem5&bg_color=0d0d0d&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&area_color=003300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Naim's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayem5&bg_color=0f172a&color=60A5FA&line=3B82F6&point=FFFFFF&area=true&hide_border=true&area_color=1E3A8A)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
