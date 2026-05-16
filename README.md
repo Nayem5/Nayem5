@@ -122,9 +122,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-naimashree5%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d0d0d)](mailto:naimashree5@gmail.com)
+[![Email](https://img.shields.io/badge/Email-naimashree5%40gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:naimashree5@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-naimashree-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d0d0d)](http://www.linkedin.com/in/naimashree)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-naimashree-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](http://www.linkedin.com/in/naimashree)
 
 </div>
 
