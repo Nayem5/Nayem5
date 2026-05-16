@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayem5&theme=matrix&hide_border=true&background=0D0D0D&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="GitHub Streak" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayem5&theme=midnight-purple&hide_border=true&background=111827&stroke=A855F7&ring=C084FC&fire=8B5CF6&currStreakLabel=E9D5FF&sideLabels=D8B4FE&dates=F3F4F6" alt="GitHub Streak" width="60%"/>
 
 </div>
 
