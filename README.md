@@ -123,8 +123,6 @@
   <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Nayem5/Nayem5/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-> ⚠️ *Enable snake animation by adding the [GitHub Action workflow](#snake-setup) to your profile repo.*
-
 </div>
 
 ---
@@ -150,43 +148,3 @@
 
 </div>
 
----
-
-<details>
-<summary><code>> ./snake --setup # Click to expand snake animation instructions</code></summary>
-
-<a name="snake-setup"></a>
-
-To enable the animated snake eating your GitHub contributions, create this file in your **`Nayem5/Nayem5`** profile repository:
-
-**`.github/workflows/snake.yml`**
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After the Action runs once, the snake SVG will appear automatically.
-
-</details>
