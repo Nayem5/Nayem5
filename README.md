@@ -53,15 +53,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nayem5&show_icons=true&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=00FF41" alt="Naim's GitHub Stats" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayem5&theme=matrix&hide_border=true&background=0D0D0D&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayem5&theme=matrix&hide_border=true&background=0D0D0D&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="GitHub Streak" width="60%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem5&layout=compact&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41" alt="Top Languages" width="40%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nayem5&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=4" alt="GitHub Trophies" width="80%"/>
 
 </div>
 
@@ -69,23 +67,16 @@
 
 ## `> ./current-focus --active`
 
-```
-┌─ [ACTIVE PROCESSES] ──────────────────────────────────────────┐
-│                                                               │
-│  [▓▓▓▓▓▓▓▓░░]  Building automated test suites               │
-│                → Robot Framework & Selenium                  │
-│                                                               │
-│  [▓▓▓▓▓▓░░░░]  Implementing E2E test automation             │
-│                → Playwright                                  │
-│                                                               │
-│  [▓▓▓▓░░░░░░]  Managing QA processes                        │
-│                → Jira & Confluence                           │
-│                                                               │
-│  [▓▓░░░░░░░░]  Strengthening automation best practices      │
-│                → Continuously learning...                    │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| Status | Task | Stack |
+|:------:|------|-------|
+| ![](https://img.shields.io/badge/ACTIVE-80%25-00FF41?style=flat-square&labelColor=0d0d0d) | Building automated test suites | Robot Framework & Selenium |
+| ![](https://img.shields.io/badge/ACTIVE-60%25-00FF41?style=flat-square&labelColor=0d0d0d) | Implementing E2E test automation | Playwright |
+| ![](https://img.shields.io/badge/QUEUE-40%25-007A1F?style=flat-square&labelColor=0d0d0d) | Managing QA processes | Jira & Confluence |
+| ![](https://img.shields.io/badge/QUEUE-20%25-003300?style=flat-square&labelColor=0d0d0d) | Strengthening automation best practices | Continuously learning... |
+
+</div>
 
 ---
 
